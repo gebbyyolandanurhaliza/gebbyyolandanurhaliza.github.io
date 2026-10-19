@@ -8,8 +8,8 @@ export const profile = {
   instagram: "https://instagram.com/gebbyy_yolanda",
   instagramLabel: "@gebbyy_yolanda",
   location: "Pekanbaru, Riau",
-  photo: "foto.jpg",
-  cv: "cv.pdf",
+  photo: "gebby.jpeg",
+  cv: "CV_Gebby_Yolanda_Nurhaliza.pdf",
 };
 
 export const nav = [
